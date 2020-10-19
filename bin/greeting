@@ -9,3 +9,4 @@ name = gets.strip
 greeting(name)
 
 
+
